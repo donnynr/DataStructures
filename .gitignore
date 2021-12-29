@@ -3,3 +3,7 @@
 ################################################################################
 
 /C#/dsa/bin/Debug/net6.0
+/C#/dsa/obj
+/C#/dsa-exercises/bin/Debug/net6.0
+/C#/dsa-exercises/obj
+/C#/dsa/.vs/dsa
